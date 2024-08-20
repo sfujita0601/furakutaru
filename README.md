@@ -9,8 +9,6 @@ https://colab.research.google.com/drive/1V-OcxjvQKeM0BcDDyB6A1q7M2ZFZvU2H?usp=sh
 https://colab.research.google.com/drive/1DCp0RnnOlUExdgvA6ddwGzHb9y5yubTt?usp=sharing
 
 ## ターミナルで準備s
-pwd
-cd 
 cd ~/python_domo
 #python環境のパス
 python3 -m venv env
