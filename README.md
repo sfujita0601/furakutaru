@@ -8,8 +8,10 @@ https://colab.research.google.com/drive/1V-OcxjvQKeM0BcDDyB6A1q7M2ZFZvU2H?usp=sh
 # fractal animation
 https://colab.research.google.com/drive/1DCp0RnnOlUExdgvA6ddwGzHb9y5yubTt?usp=sharing
 
+
 ## ターミナルで準備
 cd #python環境のパス
+
 python3 -m venv env
 source env/bin/activate 
 python3 -m pip install turtle
